@@ -1,0 +1,6 @@
+{
+  "name": "Nocturna · Dark Gothic Media Player",
+  "description": "Reproductor multimedia de música y video con temática dark gothic, reproducción de audio por defecto para videos, control de tono, velocidad y volumen independiente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
